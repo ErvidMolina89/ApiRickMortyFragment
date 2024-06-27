@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimens_18dp">18dp</dimen>
+    <dimen name="dimens25dp">25dp</dimen>
+    <dimen name="dimens25sp">25sp</dimen>
+    <dimen name="dimens10dp">10dp</dimen>
+    <dimen name="dimens_18sp">18sp</dimen>
+    <dimen name="marginTop20dp">20dp</dimen>
+    <dimen name="dimens_100dp">100dp</dimen>
+    <dimen name="dimen_3pt">3pt</dimen>
+    <dimen name="dimen_3dp">3dp</dimen>
+    <dimen name="heighsEdtBtn56dp">56dp</dimen>
+    <dimen name="paddingImgLogin20dp">20dp</dimen>
+    <dimen name="dimen_18sp">18sp</dimen>
+    <dimen name="dimen_space_fileds">15dp</dimen>
+    <dimen name="dimen_16sp">16sp</dimen>
+    <dimen name="height_et_56dp">56dp</dimen>
+    <dimen name="dimens20sp">20sp</dimen>
+    <dimen name="dimens15dp">15dp</dimen>
+    <dimen name="icono_50dp">50dp</dimen>
+    <dimen name="_300dp">300dp</dimen>
+    <dimen name="_400dp">400dp</dimen>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="_60dp">60dp</dimen>
+    <dimen name="_16dp">16dp</dimen>
+    <dimen name="_30sp">30sp</dimen>
+    <dimen name="_24dp">24dp</dimen>
+    <dimen name="_20sp">20sp</dimen>
+    <dimen name="_25sp">25sp</dimen>
+    <dimen name="_150dp">150dp</dimen>
+    <dimen name="_80dp">80dp</dimen>
+</resources>
